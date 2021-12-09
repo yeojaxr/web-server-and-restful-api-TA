@@ -1,0 +1,13 @@
+1. static web server adalah sebuah website yang kontennya statis / tidak berubah-ubah. website tersebut dapat diubah secara manual melalui pengubahan bahasa pemograman website tersebut. 
+sedangkan dynamic web server adalah jenis halaman web yang disusun oleh konten dan layout yang kaya akan informasi didalamnya. pada website Dinamis juga kontennya dapat berubah-ubah.
+
+2. - arsitektur static site : Web server yang berfungsi untuk menerima permintaan (request) dan mengirimkan perimntaan (response) melalui HTTP atau HTTPS dalam bentuk halaman-halaman web yang umumnya berbentuk dokumen HTML.
+   - arsitektur dynamic site : suatu gateway yang bernama Server Side Scripting  yang merupakan sebuah teknologi scripting atau pemrograman web dimana script (program) dikompilasi atau diterjemahkan di server. Dengan adanya teknologi ini, memungkinkan untuk menghasilkan halaman web yang dinamis.
+
+3. yang dibuat buat pada sisi server adalah file yang yang berbentuk halaman halaman web yang umumnya berbentuk dokumen html
+
+4. RESTful adalah REST client akan Melakukan akses pada data/resource pada REST server dimana masing-masing resource
+
+5. http request berfungsi agar server dapat membaca apa yang dikirimkan oleh client melalui aplikasi web server dan http response berfungsi pada server yang akan merespon permintaan yang telah dikirimkan oleh client.
+
+6. Fungsi dari Response Codes adalah kode-kode yang dapat membantu mengidentifikasikan masalah ketika ada sebuah halaman web atau resource yang tidak termuat dengan benar
